@@ -1,0 +1,17 @@
+const imageSlide = [
+    {url:'img1.jpg',
+    title: 'Sri Lanka',
+    body: 'Lanka is the place where you can revive yourself with full of adventures, discoveries and authentic travel experiences you have never experienced before.',
+    body1: 'This tiny Paradise Island which is on the Indian Ocean is one of the most popular tourist destinations in the world.The World Explorer from 16th of Century “Marco Polo” wrote that Sri Lanka is the finest Island in the whole world and Lonely Planet magazine has ranked Sri Lanka as World’s No 1 travel destination for 2019. Sri Lanka contains a great mixture of unique golden and pristine beaches, dense wildlife, a rich cultural heritage, Over 2500 years old enchanting Ancient Ruins, Colorful festivals, diverse ethnical groups, amazing unbelievable landscapes and the great hospitality from the local people will make you to come back to Sri Lanka.Renowned worldwide, Ceylon Tea is one of Sri Lanka’s prime exports and a visit to a tea plantation and factory to be enlightened about Sri Lanka’s 150 year old tea industry is a must for most tourists.'
+    },
+    {url:'img3.jpg',
+    title: 'Sri Lanka',
+    body: 'Lanka is the place where you can revive yourself with full of adventures, discoveries and authentic travel experiences you have never experienced before.',
+    body1: 'This tiny Paradise Island which is on the Indian Ocean is one of the most popular tourist destinations in the world.The World Explorer from 16th of Century “Marco Polo” wrote that Sri Lanka is the finest Island in the whole world and Lonely Planet magazine has ranked Sri Lanka as World’s No 1 travel destination for 2019. Sri Lanka contains a great mixture of unique golden and pristine beaches, dense wildlife, a rich cultural heritage, Over 2500 years old enchanting Ancient Ruins, Colorful festivals, diverse ethnical groups, amazing unbelievable landscapes and the great hospitality from the local people will make you to come back to Sri Lanka.Renowned worldwide, Ceylon Tea is one of Sri Lanka’s prime exports and a visit to a tea plantation and factory to be enlightened about Sri Lanka’s 150 year old tea industry is a must for most tourists.'
+    },{url:'img4.jpg',
+    title: 'Sri Lanka',
+    body: 'Lanka is the place where you can revive yourself with full of adventures, discoveries and authentic travel experiences you have never experienced before.',
+    body1: 'This tiny Paradise Island which is on the Indian Ocean is one of the most popular tourist destinations in the world.The World Explorer from 16th of Century “Marco Polo” wrote that Sri Lanka is the finest Island in the whole world and Lonely Planet magazine has ranked Sri Lanka as World’s No 1 travel destination for 2019. Sri Lanka contains a great mixture of unique golden and pristine beaches, dense wildlife, a rich cultural heritage, Over 2500 years old enchanting Ancient Ruins, Colorful festivals, diverse ethnical groups, amazing unbelievable landscapes and the great hospitality from the local people will make you to come back to Sri Lanka.Renowned worldwide, Ceylon Tea is one of Sri Lanka’s prime exports and a visit to a tea plantation and factory to be enlightened about Sri Lanka’s 150 year old tea industry is a must for most tourists.'
+    }
+]
+export default imageSlide;
